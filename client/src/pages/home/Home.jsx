@@ -65,7 +65,7 @@ const homePage = () => {
 
         </section>
       </section>
-      <h2>Productos destacados</h2>
+      <h2>Productos</h2>
       <section className="cart-section">
 
         <Box className="card-box">
